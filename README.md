@@ -1,4 +1,4 @@
-# 💈 AB System
+# 💈 AB System (V1.0)
 
 A full desktop management system for beauty salons, built using **Python (PySide6)** for the frontend and **FastAPI** for the backend.
 
